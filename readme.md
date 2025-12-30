@@ -41,6 +41,8 @@ An end-to-end **Retail Data Analytics project** using **Excel, SQL Server, Pytho
   - Region-wise Performance
   - Ship Mode vs Profit
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3aa537d-c876-4666-86a5-3b9317d2b172" />
+
 ---
 
 ### 2️⃣ SQL Server – Business Analysis Queries
@@ -108,3 +110,4 @@ Retail_Sales_Profitability_Analytics/
 │   └── retail_sales_dashboard.pbix
 │
 └── README.md
+
